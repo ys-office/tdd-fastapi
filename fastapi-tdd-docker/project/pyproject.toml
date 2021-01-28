@@ -1,0 +1,9 @@
+### I referred to this link -> https://blog.hirokiky.org/entry/2019/06/03/202745
+
+[tool.black]
+line-length = 119
+exclude = '''
+(
+    env
+)
+'''
